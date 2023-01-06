@@ -419,15 +419,7 @@ const menu = [
     img: "./images/recommend5.jpg",
     desc: `Lobster Salad Ball.`,
   },
-  {
-    id: 47,
-    title: "和牛漢堡",
-    chinese: "和牛",
-    category: "else",
-    price: 4000,
-    img: "./images/item-5.jpeg",
-    desc: `123`,
-  },
+  
   
 
 ];
