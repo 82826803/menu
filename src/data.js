@@ -425,7 +425,7 @@ const menu = [
     chinese: "和牛",
     category: "else",
     price: 4000,
-    img: "./images/item-5.jpg",
+    img: "./images/item-5.jpeg",
     desc: `123`,
   },
   
